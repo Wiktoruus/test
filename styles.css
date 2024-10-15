@@ -1,3 +1,38 @@
 *{
     margin: 0px;
 }
+body{
+    background-color: #F0F0F0;
+}
+header{
+    height: 20vh;
+    background-image: url('Z_dalle.png');
+    background-position: center;
+}
+.listaNawigacyjna{
+    height: 20vh;
+    padding-left:20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+.nazwaFirmy{
+    margin: 14px 20px;
+    height: 10vh;
+    background-color: rgba(3,44,4,0.83); /* Zielony kolor */
+    border: none; /* Brak obramowania */
+    color: white; /* Kolor tekstu */
+    padding: 15px 32px; /* Wewnętrzny margines */
+    text-align: center; /* Wyśrodkowanie tekstu */
+    text-decoration: none; /* Brak podkreślenia */
+    display: inline-block;
+    font-size: 16px; /* Rozmiar czcionki */
+    border-radius: 10px; /* Zaokrąglone rogi */
+    
+}
+#czarnakrecha{
+    
+    height:3vh; 
+    background-color:black;
+}
