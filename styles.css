@@ -17,6 +17,11 @@ header{
     justify-content: space-around;
     
 }
+nav{
+    background-color: rgb(80, 99, 62);
+    height: 77vh;
+    width: 25vw;
+}
 .nazwaFirmy{
     margin: 14px 20px;
     height: 10vh;
